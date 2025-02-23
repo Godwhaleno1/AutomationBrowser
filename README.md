@@ -17,7 +17,7 @@ pip install setuptools
 pip install selenium
 pip install webdriver-manager
 pip install undetected-chromedriver
-
+```
 ## Notes
 - `undetected-chromedriver` helps in avoiding bot detection on sites.
 - `webdriver-manager` automatically manages the correct ChromeDriver version.
